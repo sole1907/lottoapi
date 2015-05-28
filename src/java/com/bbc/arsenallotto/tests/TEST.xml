@@ -1,0 +1,55 @@
+<?xml 
+    version="1.0"
+    encoding="UTF-8"?>
+<data>
+    <aItems>
+        <oOrder>
+            <dCreatedAt>20140801T113521</dCreatedAt>
+            <fTotal>300</fTotal>
+            <iCurrency>46</iCurrency>
+            <fBalance>0</fBalance>
+            <aOrderItems>
+                <orderItem>
+                    <iGameID>1742</iGameID>
+                    <oGameData>
+                        <playDuration>9</playDuration>
+                 
+                        <day>3</day>
+                        <day>6</day>
+               
+                        <boards>
+                            <numbers>12</numbers>
+                            <numbers>15</numbers>
+                            <numbers>23</numbers>
+                            <numbers>31</numbers>
+                            <numbers>37</numbers>
+                            <numbers>40</numbers>
+                        </boards>
+                 
+                        <boards>
+                            <numbers>5</numbers>
+                            <numbers>7</numbers>
+                            <numbers>15</numbers>
+                            <numbers>19</numbers>
+                            <numbers>31</numbers>
+                            <numbers>44</numbers>
+                        </boards>
+                    </oGameData>
+                </orderItem>
+            </aOrderItems>
+        </oOrder>
+     
+        <oCustomer>
+            <sFirstName>Jonathan</sFirstName>
+            <sLastName>Patchett</sLastName>
+            <sEmail>jon@network649.com</sEmail>
+            <sPhone>07906234440</sPhone>
+        </oCustomer>
+        <oTransaction>
+            <sRef>49281777222</sRef>
+            <bApproved>true</bApproved>
+            <fAmount>200</fAmount>
+            <sDetails><![CDATA[... Response details from payment]]></sDetails>
+        </oTransaction>
+    </aItems>
+</data>

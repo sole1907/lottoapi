@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <aParams></aParams>
+    <aMessages>
+        <item>Processing POST using XML</item>
+    </aMessages>
+    <aOrderResponse>
+        <item>
+            <sCustomerAction>Updated</sCustomerAction>
+            <iCustomerId>4144</iCustomerId>
+            <sTransactionRef>49281777222</sTransactionRef>
+            <iOrderId>133142</iOrderId>
+            <aBookingRefs>
+                <item>80992</item>
+            </aBookingRefs>
+        </item>
+    </aOrderResponse>
+    <messages></messages>
+</data>
